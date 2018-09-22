@@ -4,8 +4,8 @@
     
     <url>
     
-      <loc>https://gabriel-martinez-roa.github.io/post/test/</loc>
-      <lastmod>2018-09-08T15:17:42-05:00</lastmod>
+      <loc>https://gabriel-martinez-roa.github.io/project/ta/</loc>
+      <lastmod>2018-09-22T17:11:15-05:00</lastmod>
     </url>
     
   
@@ -21,6 +21,22 @@
     <url>
     
       <loc>https://gabriel-martinez-roa.github.io/publication/jmp/</loc>
+      <lastmod>2018-09-08T14:49:05-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://gabriel-martinez-roa.github.io/publication/dg/</loc>
+      <lastmod>2018-09-08T14:49:05-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://gabriel-martinez-roa.github.io/publication/ddm/</loc>
       <lastmod>2018-09-08T14:49:05-05:00</lastmod>
     </url>
     
@@ -52,7 +68,7 @@
     
     <url>
     
-      <loc>https://gabriel-martinez-roa.github.io/publication_types/2/</loc>
+      <loc>https://gabriel-martinez-roa.github.io/publication_types/1/</loc>
       <lastmod>2018-09-08T14:49:05-05:00</lastmod>
       <priority>0</priority>
     </url>
@@ -71,6 +87,15 @@
     
       <loc>https://gabriel-martinez-roa.github.io/</loc>
       <lastmod>2017-10-15T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://gabriel-martinez-roa.github.io/project/</loc>
+      <lastmod>2018-09-22T17:11:15-05:00</lastmod>
       <priority>0</priority>
     </url>
     
