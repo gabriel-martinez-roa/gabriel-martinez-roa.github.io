@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>References on Gabriel Martinez-Roa</title>
+    <link>https://gabriel-martinez-roa.github.io/references/</link>
+    <description>Recent content in References on Gabriel Martinez-Roa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sat, 22 Sep 2018 17:11:15 -0500</lastBuildDate>
+    
+	<atom:link href="https://gabriel-martinez-roa.github.io/references/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Marzena Rostek (Chair)</title>
+      <link>https://gabriel-martinez-roa.github.io/references/marzena/</link>
+      <pubDate>Sat, 22 Sep 2018 17:11:15 -0500</pubDate>
+      
+      <guid>https://gabriel-martinez-roa.github.io/references/marzena/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bill Sandholm</title>
+      <link>https://gabriel-martinez-roa.github.io/references/bill/</link>
+      <pubDate>Sat, 22 Sep 2018 17:11:15 -0500</pubDate>
+      
+      <guid>https://gabriel-martinez-roa.github.io/references/bill/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Antonio Penta</title>
+      <link>https://gabriel-martinez-roa.github.io/references/antonio/</link>
+      <pubDate>Sat, 22 Sep 2018 17:11:15 -0500</pubDate>
+      
+      <guid>https://gabriel-martinez-roa.github.io/references/antonio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marek Weretka</title>
+      <link>https://gabriel-martinez-roa.github.io/references/marek/</link>
+      <pubDate>Sat, 22 Sep 2018 17:11:15 -0500</pubDate>
+      
+      <guid>https://gabriel-martinez-roa.github.io/references/marek/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
