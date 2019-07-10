@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gabriel Martinez-Roa on Gabriel Martinez-Roa</title>
@@ -7,7 +6,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sat, 22 Sep 2018 17:11:15 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jul 2019 14:49:05 -0500</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
@@ -47,11 +46,20 @@
     </item>
     
     <item>
-      <title>Bayesian Persuasion with Source Uncertainty</title>
+      <title>Bayesian Persuasion with Hidden Motives</title>
       <link>https://gabriel-martinez-roa.github.io/publication/jmp/</link>
-      <pubDate>Thu, 18 Oct 2018 14:49:05 -0500</pubDate>
+      <pubDate>Tue, 09 Jul 2019 14:49:05 -0500</pubDate>
       
       <guid>https://gabriel-martinez-roa.github.io/publication/jmp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal Echo Chambers</title>
+      <link>https://gabriel-martinez-roa.github.io/publication/cbias/</link>
+      <pubDate>Tue, 09 Jul 2019 14:49:05 -0500</pubDate>
+      
+      <guid>https://gabriel-martinez-roa.github.io/publication/cbias/</guid>
       <description></description>
     </item>
     
@@ -61,15 +69,6 @@
       <pubDate>Thu, 18 Oct 2018 14:49:05 -0500</pubDate>
       
       <guid>https://gabriel-martinez-roa.github.io/publication/ddm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Factual Disagreement with Endogenous Confirmation Bias</title>
-      <link>https://gabriel-martinez-roa.github.io/publication/cbias/</link>
-      <pubDate>Thu, 18 Oct 2018 14:49:05 -0500</pubDate>
-      
-      <guid>https://gabriel-martinez-roa.github.io/publication/cbias/</guid>
       <description></description>
     </item>
     
