@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Tue, 20 Aug 2019 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 11 Sep 2019 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="https://gabriel-martinez-roa.github.io/ta_material/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Math for Economists</title>
+      <link>https://gabriel-martinez-roa.github.io/ta_material/703/</link>
+      <pubDate>Wed, 11 Sep 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://gabriel-martinez-roa.github.io/ta_material/703/</guid>
+      <description>Course Description This course was taught by professor Raymond Deneckere. The first half of the course was taught during the summer and the second half during the fall semester. The intended audience is first-year Ph.D. students in the economics department.
+In this proof-based course, students develop the tools to understand and formulate rigorous mathematical proofs. They learn tools in real analysis to prove classic theorems like Weierstrass, the implicit function theorem and optimization theorems (Lagrange and Kuhn Tucker).</description>
+    </item>
     
     <item>
       <title>Game Theory</title>
