@@ -7,44 +7,53 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Tue, 09 Jul 2019 14:49:05 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 18 Aug 2019 14:49:05 -0500</lastBuildDate>
     
 	<atom:link href="https://gabriel-martinez-roa.github.io/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Optimal Echo Chambers</title>
-      <link>https://gabriel-martinez-roa.github.io/publication/cbias/</link>
-      <pubDate>Tue, 09 Jul 2019 14:49:05 -0500</pubDate>
-      
-      <guid>https://gabriel-martinez-roa.github.io/publication/cbias/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Dynamic Trading in Decentralized Markets</title>
       <link>https://gabriel-martinez-roa.github.io/publication/ddm/</link>
-      <pubDate>Thu, 18 Oct 2018 14:49:05 -0500</pubDate>
+      <pubDate>Sun, 18 Aug 2019 14:49:05 -0500</pubDate>
       
       <guid>https://gabriel-martinez-roa.github.io/publication/ddm/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Games with Multilateral Contracts</title>
-      <link>https://gabriel-martinez-roa.github.io/publication/dg/</link>
-      <pubDate>Thu, 18 Oct 2018 14:49:05 -0500</pubDate>
+      <title>Hospital Incentives under Capitation and Fee-for-Service  Contracts</title>
+      <link>https://gabriel-martinez-roa.github.io/publication/cap_ffs/</link>
+      <pubDate>Thu, 09 May 2019 14:49:05 -0500</pubDate>
       
-      <guid>https://gabriel-martinez-roa.github.io/publication/dg/</guid>
+      <guid>https://gabriel-martinez-roa.github.io/publication/cap_ffs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal Echo Chambers</title>
+      <link>https://gabriel-martinez-roa.github.io/publication/cbias/</link>
+      <pubDate>Tue, 09 Apr 2019 14:49:05 -0500</pubDate>
+      
+      <guid>https://gabriel-martinez-roa.github.io/publication/cbias/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Games among Groups</title>
       <link>https://gabriel-martinez-roa.github.io/publication/dg_c/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 18 Mar 2019 14:49:05 -0500</pubDate>
       
       <guid>https://gabriel-martinez-roa.github.io/publication/dg_c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Games with Multilateral Contracts</title>
+      <link>https://gabriel-martinez-roa.github.io/publication/dg/</link>
+      <pubDate>Mon, 18 Feb 2019 14:49:05 -0500</pubDate>
+      
+      <guid>https://gabriel-martinez-roa.github.io/publication/dg/</guid>
       <description></description>
     </item>
     

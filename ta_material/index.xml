@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TA_Materials on Gabriel Martinez-Roa</title>
+    <link>https://gabriel-martinez-roa.github.io/ta_material/</link>
+    <description>Recent content in TA_Materials on Gabriel Martinez-Roa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Tue, 20 Aug 2019 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://gabriel-martinez-roa.github.io/ta_material/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Game Theory</title>
+      <link>https://gabriel-martinez-roa.github.io/ta_material/521/</link>
+      <pubDate>Tue, 20 Aug 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://gabriel-martinez-roa.github.io/ta_material/521/</guid>
+      <description>Course Description This summer course was taught by David Hansen. Econ 521 is an advanced undergraduate course where students learned how to study strategic interactions. The course is mainly focused on studying standard non-cooperative games, and finishes discussing topics in cooperative games and evolutionary game theory. See the material below for a more comprehensive list of the material covered.
+Material Week 1 Topics: Strategic games and solution concepts - The Nash equilibrium * Handout * Solutions * Accompanying Video</description>
+    </item>
+    
+  </channel>
+</rss>

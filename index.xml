@@ -6,7 +6,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Tue, 09 Jul 2019 14:49:05 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 20 Aug 2019 00:00:00 -0500</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
@@ -46,7 +46,74 @@
     </item>
     
     <item>
-      <title>Bayesian Persuasion with Hidden Motives</title>
+      <title>Game Theory</title>
+      <link>https://gabriel-martinez-roa.github.io/ta_material/521/</link>
+      <pubDate>Tue, 20 Aug 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://gabriel-martinez-roa.github.io/ta_material/521/</guid>
+      <description>
+
+&lt;h1 id=&#34;course-description&#34;&gt;Course Description&lt;/h1&gt;
+
+&lt;p&gt;This summer course was taught by &lt;a href=&#34;https://econ.wisc.edu/staff/hansen-david/&#34; target=&#34;_blank&#34;&gt;David Hansen&lt;/a&gt;. Econ 521 is an advanced undergraduate course where students learned how to study strategic interactions. The course is mainly focused on studying standard non-cooperative games, and finishes discussing topics in cooperative games and evolutionary game theory. See the material below for a more comprehensive list  of the material covered.&lt;/p&gt;
+
+&lt;h1 id=&#34;material&#34;&gt;Material&lt;/h1&gt;
+
+&lt;h2 id=&#34;week-1&#34;&gt;Week 1&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Topics:&lt;/strong&gt; Strategic games and solution concepts - The Nash equilibrium
+* &lt;a href=&#34;https://www.dropbox.com/s/mz8cgm9y8zicdn3/Discussion_1.pdf?raw=1&#34; target=&#34;_blank&#34;&gt;Handout&lt;/a&gt;
+* &lt;a href=&#34;https://www.dropbox.com/s/x0t90dqaaqino3h/Discussion_1_Sol.pdf?raw=1&#34; target=&#34;_blank&#34;&gt;Solutions&lt;/a&gt;
+* &lt;a href=&#34;https://mediaspace.wisc.edu/media/Discussion_1_Summer_2019_Econ521/1_0a606r9t&#34; target=&#34;_blank&#34;&gt;Accompanying Video&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;week-2&#34;&gt;Week 2&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Topics:&lt;/strong&gt; Mixed strategies and classic games - Oligopoly Models and Auctions
+* &lt;a href=&#34;https://www.dropbox.com/s/6gdox0cfweceys5/Discussion_2.pdf?raw=1&#34; target=&#34;_blank&#34;&gt;Handout&lt;/a&gt;
+* &lt;a href=&#34;https://www.dropbox.com/s/gdqf22kndoe0nyg/Discussion_2_Sol.pdf?raw=1&#34; target=&#34;_blank&#34;&gt;Solutions&lt;/a&gt;
+* Accompanying &lt;a href=&#34;https://mediaspace.wisc.edu/media/Discussion_2a_Summer_2019_Econ521/0_e9q1x1ep&#34; target=&#34;_blank&#34;&gt;Video A&lt;/a&gt;, &lt;a href=&#34;https://mediaspace.wisc.edu/media/Discussion_2b_Summer_2019_Econ521/0_jlujlarn&#34; target=&#34;_blank&#34;&gt;Video B&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;week-3&#34;&gt;Week 3&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Topics:&lt;/strong&gt; Sequential games
+* &lt;a href=&#34;https://www.dropbox.com/s/7v7fkn4oecwb6of/Discussion_3.pdf?raw=1&#34; target=&#34;_blank&#34;&gt;Handout&lt;/a&gt;
+* &lt;a href=&#34;https://www.dropbox.com/s/jnygw8dblq6bji2/Discussion_3_Sol.pdf?raw=1&#34; target=&#34;_blank&#34;&gt;Solutions&lt;/a&gt;
+* &lt;a href=&#34;https://mediaspace.wisc.edu/media/Discussion_3_Summer_2019_Econ521/1_djw5fatq&#34; target=&#34;_blank&#34;&gt;Accompanying Video&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;week-4&#34;&gt;Week 4&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Topics:&lt;/strong&gt; Bayesian games and signaling
+* &lt;a href=&#34;https://www.dropbox.com/s/ccueyw3sdcjyh1n/Discussion_4.pdf?raw=1&#34; target=&#34;_blank&#34;&gt;Handout&lt;/a&gt;
+* &lt;a href=&#34;https://www.dropbox.com/s/4hmdt0b3k3sqtat/Discussion_4_Sol.pdf?raw=1&#34; target=&#34;_blank&#34;&gt;Solutions&lt;/a&gt;
+* &lt;a href=&#34;https://mediaspace.wisc.edu/media/Discussion_4_Summer_2019_ECON521/0_sp2lo5bh&#34; target=&#34;_blank&#34;&gt;Accompanying Video&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;week-5&#34;&gt;Week 5&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Topics:&lt;/strong&gt; Repeated games and evolutionary game theory
+* &lt;a href=&#34;https://www.dropbox.com/s/8vbmupmfdnhhwsq/Discussion_5.pdf?raw=1&#34; target=&#34;_blank&#34;&gt;Handout&lt;/a&gt;
+* &lt;a href=&#34;https://www.dropbox.com/s/p2rlikkyf6kx0jq/Discussion_5_Sol.pdf?raw=1&#34; target=&#34;_blank&#34;&gt;Solutions&lt;/a&gt;
+* Accompanying &lt;a href=&#34;https://mediaspace.wisc.edu/media/Discussion_5a_Summer_2019_ECON521/0_9l39dpfp&#34; target=&#34;_blank&#34;&gt;Video A&lt;/a&gt;, &lt;a href=&#34;https://mediaspace.wisc.edu/media/Discussion_5b_Summer_2019_ECON521/0_5hjr1typ&#34; target=&#34;_blank&#34;&gt;Video B&lt;/a&gt;, &lt;a href=&#34;https://mediaspace.wisc.edu/media/Discussion_5c_Summer_2019_ECON521/0_43ybhp8p&#34; target=&#34;_blank&#34;&gt;Video C&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;week-6&#34;&gt;Week 6&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Topics:&lt;/strong&gt; Cooperative game theory - Nash bargaining and the core
+* &lt;a href=&#34;https://www.dropbox.com/s/y7sc3vx80af0w5t/Discussion_6.pdf?dl=0&#34; target=&#34;_blank&#34;&gt;Handout&lt;/a&gt;
+* &lt;a href=&#34;https://www.dropbox.com/s/bgy2tairdkiz6qz/Discussion_6_Sol.pdf?dl=0&#34; target=&#34;_blank&#34;&gt;Solutions&lt;/a&gt;
+* &lt;a href=&#34;https://mediaspace.wisc.edu/media/Discussion_6_Summer_2019_ECON521/0_k52n8py7&#34; target=&#34;_blank&#34;&gt;Accompanying Video&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Dynamic Trading in Decentralized Markets</title>
+      <link>https://gabriel-martinez-roa.github.io/publication/ddm/</link>
+      <pubDate>Sun, 18 Aug 2019 14:49:05 -0500</pubDate>
+      
+      <guid>https://gabriel-martinez-roa.github.io/publication/ddm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Persuasion in the Digital Age</title>
       <link>https://gabriel-martinez-roa.github.io/publication/jmp/</link>
       <pubDate>Tue, 09 Jul 2019 14:49:05 -0500</pubDate>
       
@@ -55,27 +122,36 @@
     </item>
     
     <item>
+      <title>Hospital Incentives under Capitation and Fee-for-Service  Contracts</title>
+      <link>https://gabriel-martinez-roa.github.io/publication/cap_ffs/</link>
+      <pubDate>Thu, 09 May 2019 14:49:05 -0500</pubDate>
+      
+      <guid>https://gabriel-martinez-roa.github.io/publication/cap_ffs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Optimal Echo Chambers</title>
       <link>https://gabriel-martinez-roa.github.io/publication/cbias/</link>
-      <pubDate>Tue, 09 Jul 2019 14:49:05 -0500</pubDate>
+      <pubDate>Tue, 09 Apr 2019 14:49:05 -0500</pubDate>
       
       <guid>https://gabriel-martinez-roa.github.io/publication/cbias/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Dynamic Trading in Decentralized Markets</title>
-      <link>https://gabriel-martinez-roa.github.io/publication/ddm/</link>
-      <pubDate>Thu, 18 Oct 2018 14:49:05 -0500</pubDate>
+      <title>Games among Groups</title>
+      <link>https://gabriel-martinez-roa.github.io/publication/dg_c/</link>
+      <pubDate>Mon, 18 Mar 2019 14:49:05 -0500</pubDate>
       
-      <guid>https://gabriel-martinez-roa.github.io/publication/ddm/</guid>
+      <guid>https://gabriel-martinez-roa.github.io/publication/dg_c/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Games with Multilateral Contracts</title>
       <link>https://gabriel-martinez-roa.github.io/publication/dg/</link>
-      <pubDate>Thu, 18 Oct 2018 14:49:05 -0500</pubDate>
+      <pubDate>Mon, 18 Feb 2019 14:49:05 -0500</pubDate>
       
       <guid>https://gabriel-martinez-roa.github.io/publication/dg/</guid>
       <description></description>
@@ -132,15 +208,6 @@
       <pubDate>Sat, 08 Sep 2018 15:03:56 -0500</pubDate>
       
       <guid>https://gabriel-martinez-roa.github.io/talk/midwest-theory-vandervilt/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Games among Groups</title>
-      <link>https://gabriel-martinez-roa.github.io/publication/dg_c/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://gabriel-martinez-roa.github.io/publication/dg_c/</guid>
       <description></description>
     </item>
     
