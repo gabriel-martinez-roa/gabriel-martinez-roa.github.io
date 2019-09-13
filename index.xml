@@ -61,149 +61,137 @@
 
 &lt;h1 id=&#34;material&#34;&gt;Material&lt;/h1&gt;
 
-&lt;h2 id=&#34;discussion-1&#34;&gt;Discussion 1&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;center&#34;&gt;&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;Topics&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;Handout&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;Solutions&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
 
-&lt;p&gt;&lt;strong&gt;Topics:&lt;/strong&gt; Sets and Negations&lt;/p&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Discussion 1&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Sets and Negations&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://www.dropbox.com/s/zvo90xgj62j98z3/Practice%201-f17.pdf?raw=1&#34; target=&#34;_blank&#34;&gt;Handout 1&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://www.dropbox.com/s/rugxvvsb4oqf3p1/Practice%201-f17-sol.pdf?raw=1&#34; target=&#34;_blank&#34;&gt;Solutions 1&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
 
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.dropbox.com/s/zvo90xgj62j98z3/Practice%201-f17.pdf?raw=1&#34; target=&#34;_blank&#34;&gt;Handout&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.dropbox.com/s/rugxvvsb4oqf3p1/Practice%201-f17-sol.pdf?raw=1&#34; target=&#34;_blank&#34;&gt;Solutions&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Discussion 2&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Induction, functions and general relations&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://www.dropbox.com/s/bneu3rk32wc15fc/Practice%202-f17.pdf?raw=1&#34; target=&#34;_blank&#34;&gt;Handout 2&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://www.dropbox.com/s/q5tn3vo0sahhk8r/Practice%202-f17%20-sol.pdf?raw=1&#34; target=&#34;_blank&#34;&gt;Solutions 2&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
 
-&lt;h2 id=&#34;discussion-2&#34;&gt;Discussion 2&lt;/h2&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Discussion 3&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Supremums, sequences, limits and vector spaces&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://www.dropbox.com/s/b40c08cqk7rwr3h/Practice%203-f17.pdf?raw=1&#34; target=&#34;_blank&#34;&gt;Handout 3&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://www.dropbox.com/s/76f33o9e78vdjs0/Practice%203-f17-sol.pdf?raw=1&#34; target=&#34;_blank&#34;&gt;Solutions 3&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
 
-&lt;p&gt;&lt;strong&gt;Topics:&lt;/strong&gt; Induction, functions and general relations&lt;/p&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Discussion 4&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Metric Spaces and Topology&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://www.dropbox.com/s/hsyw794utus8q5s/Practice%204-f17.pdf?raw=1&#34; target=&#34;_blank&#34;&gt;Handout 4&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://www.dropbox.com/s/g35n4qhf7jlogwy/Practice%204-f17-sol.pdf?raw=1&#34; target=&#34;_blank&#34;&gt;Solutions 4&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
 
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.dropbox.com/s/bneu3rk32wc15fc/Practice%202-f17.pdf?raw=1&#34; target=&#34;_blank&#34;&gt;Handout&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.dropbox.com/s/q5tn3vo0sahhk8r/Practice%202-f17%20-sol.pdf?raw=1&#34; target=&#34;_blank&#34;&gt;Solutions&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Discussion 5&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Limit points and compact sets&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://www.dropbox.com/s/94zk9mt8kqghh6y/Practice%205-f17.pdf?raw=1&#34; target=&#34;_blank&#34;&gt;Handout 5&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://www.dropbox.com/s/c2f2dmxrcqi1cqe/Practice%205-f17-sol.pdf?raw=1&#34; target=&#34;_blank&#34;&gt;Solutions 5&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
 
-&lt;h2 id=&#34;discussion-3&#34;&gt;Discussion 3&lt;/h2&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Discussion 6&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Continuity of functions&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://www.dropbox.com/s/be93jb1134b6pmx/Practice%206-f17.pdf?raw=1&#34; target=&#34;_blank&#34;&gt;Handout 6&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://www.dropbox.com/s/eiup1mwk7z12nj1/Practice%206-f17-sol.pdf?raw=1&#34; target=&#34;_blank&#34;&gt;Solutions 6&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
 
-&lt;p&gt;&lt;strong&gt;Topics:&lt;/strong&gt;  Supremums, sequences, limits and vector spaces&lt;/p&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Discussion 7&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Differentiability, IVT and MVT&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://www.dropbox.com/s/7vdf15pbzva9mrs/Practice%207-f17.pdf?raw=1&#34; target=&#34;_blank&#34;&gt;Handout 7&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://www.dropbox.com/s/05jynkfp7zrzstm/Practice%207-f17-sol.pdf?raw=1&#34; target=&#34;_blank&#34;&gt;Solutions 7&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
 
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.dropbox.com/s/b40c08cqk7rwr3h/Practice%203-f17.pdf?raw=1&#34; target=&#34;_blank&#34;&gt;Handout&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.dropbox.com/s/76f33o9e78vdjs0/Practice%203-f17-sol.pdf?raw=1&#34; target=&#34;_blank&#34;&gt;Solutions&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Discussion 8&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Multivariate calculus and optimization&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://www.dropbox.com/s/hpmzti64zkygt7f/Practice%208-f17.pdf?raw=1&#34; target=&#34;_blank&#34;&gt;Handout 8&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://www.dropbox.com/s/l0emf49h7dcbc48/Practice%208-f17%20-sol.pdf?raw=1&#34; target=&#34;_blank&#34;&gt;Solutions 8&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
 
-&lt;h2 id=&#34;discussion-4&#34;&gt;Discussion 4&lt;/h2&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Discussion 9&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Complete spaces&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://www.dropbox.com/s/cufvut35tm79y6m/Practice%209-f17.pdf?raw=1&#34; target=&#34;_blank&#34;&gt;Handout 9&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://www.dropbox.com/s/vc8yasw6b751amz/Practice%209-f17%20-sol.pdf?raw=1&#34; target=&#34;_blank&#34;&gt;Solutions 9&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
 
-&lt;p&gt;&lt;strong&gt;Topics:&lt;/strong&gt; Metric Spaces and Topology&lt;/p&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Discussion 10&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Contractions and IFT&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://www.dropbox.com/s/jhp1ucagtyjpl3f/Practice%2010-f17.pdf?raw=1&#34; target=&#34;_blank&#34;&gt;Handout 10&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://www.dropbox.com/s/q32v6c3vhp2yrqa/Practice%2010-f17%20-sol.pdf?raw=1&#34; target=&#34;_blank&#34;&gt;Solutions 10&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
 
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.dropbox.com/s/hsyw794utus8q5s/Practice%204-f17.pdf?raw=1&#34; target=&#34;_blank&#34;&gt;Handout&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.dropbox.com/s/g35n4qhf7jlogwy/Practice%204-f17-sol.pdf?raw=1&#34; target=&#34;_blank&#34;&gt;Solutions&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Discussion 11&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Hyperplanes and constrained optimization&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://www.dropbox.com/s/25yjap5g60v72lh/Practice%2011-f16.pdf?raw=1&#34; target=&#34;_blank&#34;&gt;Handout 11&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://www.dropbox.com/s/1mhazooihoete3o/Practice%2011-f16%20-sol.pdf?raw=1&#34; target=&#34;_blank&#34;&gt;Solutions 11&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
 
-&lt;h2 id=&#34;discussion-5&#34;&gt;Discussion 5&lt;/h2&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Discussion 12&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Review&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://www.dropbox.com/s/l6ehorqirq0m5g8/Practice%2012-f16.pdf?raw=1&#34; target=&#34;_blank&#34;&gt;Handout 12&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://www.dropbox.com/s/xq5c9stex0274ns/Practice%2012-f16%20-sol.pdf?raw=1&#34; target=&#34;_blank&#34;&gt;Solutions 12&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
 
-&lt;p&gt;&lt;strong&gt;Topics:&lt;/strong&gt; Limit points and compact sets&lt;/p&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Discussion 13&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Constrained and unconstrained optimization&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://www.dropbox.com/s/50fwupyakzt1iwj/Practice%2013-f16.pdf?raw=1&#34; target=&#34;_blank&#34;&gt;Handout 13&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://www.dropbox.com/s/a41c3b0lxas46t0/Practice%2013-f16%20-sol.pdf?raw=1&#34; target=&#34;_blank&#34;&gt;Solution 13&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
 
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.dropbox.com/s/94zk9mt8kqghh6y/Practice%205-f17.pdf?raw=1&#34; target=&#34;_blank&#34;&gt;Handout&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.dropbox.com/s/c2f2dmxrcqi1cqe/Practice%205-f17-sol.pdf?raw=1&#34; target=&#34;_blank&#34;&gt;Solutions&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Discussion 14&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Constrained optimization and convex sets&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://www.dropbox.com/s/bfzp5nvrsvlpctm/Practice%2014-f16.pdf?raw=1&#34; target=&#34;_blank&#34;&gt;Handout 14&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://www.dropbox.com/s/2eu6z7rey7708eg/Practice%2014-f16%20-sol.pdf?raw=1&#34; target=&#34;_blank&#34;&gt;Solution 14&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
 
-&lt;h2 id=&#34;discussion-6&#34;&gt;Discussion 6&lt;/h2&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Discussion 15&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Concave functions and convex optimization&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://www.dropbox.com/s/9sb38q2icu1k9d8/Practice%2015-f16.pdf?raw=1&#34; target=&#34;_blank&#34;&gt;Handout 15&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://www.dropbox.com/s/fescuz842o5d8zw/Practice%2015-f16%20-sol.pdf?raw=1&#34; target=&#34;_blank&#34;&gt;Solution 15&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
 
-&lt;p&gt;&lt;strong&gt;Topics:&lt;/strong&gt; Continuity of functions&lt;/p&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Discussion 16&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Quasi-concavity&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://www.dropbox.com/s/6rmvkspkyp2mc7e/Practice%2016-f16.pdf?raw=1&#34; target=&#34;_blank&#34;&gt;Handout 16&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://www.dropbox.com/s/hl03zqvx54g2o7j/Practice%2016-f16%20-sol.pdf?raw=1&#34; target=&#34;_blank&#34;&gt;Solution 16&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
 
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.dropbox.com/s/be93jb1134b6pmx/Practice%206-f17.pdf?raw=1&#34; target=&#34;_blank&#34;&gt;Handout&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.dropbox.com/s/eiup1mwk7z12nj1/Practice%206-f17-sol.pdf?raw=1&#34; target=&#34;_blank&#34;&gt;Solutions&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;discussion-7&#34;&gt;Discussion 7&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;Topics:&lt;/strong&gt; Differentiability, IVT and MVT&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.dropbox.com/s/7vdf15pbzva9mrs/Practice%207-f17.pdf?raw=1&#34; target=&#34;_blank&#34;&gt;Handout&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.dropbox.com/s/05jynkfp7zrzstm/Practice%207-f17-sol.pdf?raw=1&#34; target=&#34;_blank&#34;&gt;Solutions&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;discussion-8&#34;&gt;Discussion 8&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;Topics:&lt;/strong&gt; Multivariate calculus and optimization&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.dropbox.com/s/hpmzti64zkygt7f/Practice%208-f17.pdf?raw=1&#34; target=&#34;_blank&#34;&gt;Handout&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.dropbox.com/s/l0emf49h7dcbc48/Practice%208-f17%20-sol.pdf?raw=1&#34; target=&#34;_blank&#34;&gt;Solutions&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;discussion-9&#34;&gt;Discussion 9&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;Topics:&lt;/strong&gt; Complete spaces&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.dropbox.com/s/cufvut35tm79y6m/Practice%209-f17.pdf?raw=1&#34; target=&#34;_blank&#34;&gt;Handout&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.dropbox.com/s/vc8yasw6b751amz/Practice%209-f17%20-sol.pdf?raw=1&#34; target=&#34;_blank&#34;&gt;Solutions&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;discussion-10&#34;&gt;Discussion 10&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;Topics:&lt;/strong&gt; Contractions and IFT&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.dropbox.com/s/jhp1ucagtyjpl3f/Practice%2010-f17.pdf?raw=1&#34; target=&#34;_blank&#34;&gt;Handout&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.dropbox.com/s/q32v6c3vhp2yrqa/Practice%2010-f17%20-sol.pdf?raw=1&#34; target=&#34;_blank&#34;&gt;Solutions&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;discussion-11&#34;&gt;Discussion 11&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;Topics:&lt;/strong&gt; Hyperplanes and constrained optimization&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.dropbox.com/s/25yjap5g60v72lh/Practice%2011-f16.pdf?raw=1&#34; target=&#34;_blank&#34;&gt;Handout&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.dropbox.com/s/1mhazooihoete3o/Practice%2011-f16%20-sol.pdf?raw=1&#34; target=&#34;_blank&#34;&gt;Solutions&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;discussion-12&#34;&gt;Discussion 12&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;Topics:&lt;/strong&gt; Review&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.dropbox.com/s/l6ehorqirq0m5g8/Practice%2012-f16.pdf?raw=1&#34; target=&#34;_blank&#34;&gt;Handout&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.dropbox.com/s/xq5c9stex0274ns/Practice%2012-f16%20-sol.pdf?raw=1&#34; target=&#34;_blank&#34;&gt;Solutions&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;discussion-13&#34;&gt;Discussion 13&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;Topics:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;[Handout]&lt;/li&gt;
-&lt;li&gt;[Solutions]&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;discussion-14&#34;&gt;Discussion 14&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;Topics:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;[Handout]&lt;/li&gt;
-&lt;li&gt;[Solutions]&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;discussion-15&#34;&gt;Discussion 15&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;Topics:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;[Handout]&lt;/li&gt;
-&lt;li&gt;[Solutions]&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;discussion-16&#34;&gt;Discussion 16&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;Topics:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;[Handout]&lt;/li&gt;
-&lt;li&gt;[Solutions]&lt;/li&gt;
-&lt;/ul&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Discussion 17&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Correspondences and the theorem of the maximum&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://www.dropbox.com/s/kl1yfe5bmwbtgch/Practice%2017-f16.pdf?raw=1&#34; target=&#34;_blank&#34;&gt;Handout 17&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://www.dropbox.com/s/b9u8iap4lr1shee/Practice%2017-f16%20-sol.pdf?raw=1&#34; target=&#34;_blank&#34;&gt;Solution 17&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
 
 &lt;hr /&gt;
 
