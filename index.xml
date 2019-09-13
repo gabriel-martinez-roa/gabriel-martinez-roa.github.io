@@ -6,7 +6,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 11 Sep 2019 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 13 Sep 2019 00:00:00 -0500</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
@@ -46,9 +46,121 @@
     </item>
     
     <item>
+      <title>Intermediate Macroeconomics</title>
+      <link>https://gabriel-martinez-roa.github.io/ta_material/302/</link>
+      <pubDate>Fri, 13 Sep 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://gabriel-martinez-roa.github.io/ta_material/302/</guid>
+      <description>
+
+&lt;h1 id=&#34;course-description&#34;&gt;Course Description&lt;/h1&gt;
+
+&lt;p&gt;This course was taught by professor &lt;a href=&#34;https://econ.wisc.edu/staff/seshadri-ananth/&#34; target=&#34;_blank&#34;&gt;Ananth Seshadri&lt;/a&gt;. The intended audience is undergraduate economics majors, usually in their last years of college. The TA material found here was put together by several TA&amp;rsquo;s. The formatting is mine. Students learned analytical tools to study macroeconomic questions through the eyes of the Neoclassical growth theory.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Textbook:&lt;/strong&gt; Macroeconomics, by Robert J. Barro (5th Edition).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;material&#34;&gt;Material&lt;/h1&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;center&#34;&gt;&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;Topics&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;Handout&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;Solutions&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Discussion 1&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;GDP accounting and the Robinson Crusoe economy&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://www.dropbox.com/s/9pve66cvp26ggyd/Handout%201.pdf?raw=1&#34; target=&#34;_blank&#34;&gt;Handout 1&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://www.dropbox.com/s/w64h0jtjfwu3pwk/Handout%201-sol.pdf?raw=1&#34; target=&#34;_blank&#34;&gt;Solutions 1&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Discussion 2&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Intertemporal decisions&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://www.dropbox.com/s/3h79254jih04k3h/Handout%202.pdf?raw=1&#34; target=&#34;_blank&#34;&gt;Handout 2&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://www.dropbox.com/s/hbljk9a9diioa6p/Handout%202-sol.pdf?raw=1&#34; target=&#34;_blank&#34;&gt;Solutions 2&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Discussion 3&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Demand for money and market clearing&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://www.dropbox.com/s/je3f7uz0di0t9h8/Handout%203.pdf?raw=1&#34; target=&#34;_blank&#34;&gt;Handout 3&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://www.dropbox.com/s/k16eloidga1j7kk/Handout%203-sol.pdf?raw=1&#34; target=&#34;_blank&#34;&gt;Solutions 3&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Discussion 4&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Interest rate, inflation and investment&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://www.dropbox.com/s/l78oei73i2ikxqy/Handout%204.pdf?raw=1&#34; target=&#34;_blank&#34;&gt;Handout 4&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://www.dropbox.com/s/kgerptt8gny18ez/Handout%204-sol.pdf?raw=1&#34; target=&#34;_blank&#34;&gt;Solutions 4&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Discussion 5&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Real business cycles&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://www.dropbox.com/s/h8edpafrt7lgp22/Handout%205.pdf?raw=1&#34; target=&#34;_blank&#34;&gt;Handout 5&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://www.dropbox.com/s/h4nlzuqn3hqz771/Handout%205-sol.pdf?raw=1&#34; target=&#34;_blank&#34;&gt;Solutions 5&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Discussion 6&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;The Solow growth model&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://www.dropbox.com/s/mt92c9g83qut72m/Handout%206.pdf?raw=1&#34; target=&#34;_blank&#34;&gt;Handout 6&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://www.dropbox.com/s/4fjkprihqwe1n40/Handout%206-sol.pdf?raw=1&#34; target=&#34;_blank&#34;&gt;Solutions 6&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Discussion 7&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Unemployment with search frictions&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://www.dropbox.com/s/94g3g8vmxghe7sp/Handout%207.pdf?raw=1&#34; target=&#34;_blank&#34;&gt;Handout 7&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;-&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Discussion 8&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Government spending and taxes&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://www.dropbox.com/s/qcn5sdy64ckv46e/Handout%208.pdf?raw=1&#34; target=&#34;_blank&#34;&gt;Handout 8&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://www.dropbox.com/s/0xoofzxx7qn56vi/Handout%208-sol.pdf?raw=1&#34; target=&#34;_blank&#34;&gt;Solutions 8&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Discussion 9&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Tax policy and public debt&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://www.dropbox.com/s/syhz55coadehpgl/Handout%209.pdf?raw=1&#34; target=&#34;_blank&#34;&gt;Handout 9&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://www.dropbox.com/s/ohblz0bcimm92bv/Handout%209-sol.pdf?raw=1&#34; target=&#34;_blank&#34;&gt;Solutions 9&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Discussion 10&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Open economy&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://www.dropbox.com/s/0szjunm6ylbldib/Handout%2010.pdf?raw=1&#34; target=&#34;_blank&#34;&gt;Handout 10&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://www.dropbox.com/s/xvhlmg8k7zh7000/Handout%2010-sol.pdf?raw=1&#34; target=&#34;_blank&#34;&gt;Solutions 10&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&#34;disclaimer&#34;&gt;Disclaimer&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Some of the exercises are inspired in published work. The selection of questions was meant to assist students in their learning process. I do not claim property rights of the ideas presented.&lt;/li&gt;
+&lt;li&gt;I appreciate the collaboration of former students in identifying mistakes in the problems or solutions. I constantly keep them updated. If you find an error, please &lt;a href=&#34;mailto:gamartinez@wisc.edu&#34; target=&#34;_blank&#34;&gt;contact me&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Math for Economists</title>
       <link>https://gabriel-martinez-roa.github.io/ta_material/703/</link>
-      <pubDate>Wed, 11 Sep 2019 00:00:00 -0500</pubDate>
+      <pubDate>Fri, 13 Sep 2019 00:00:00 -0500</pubDate>
       
       <guid>https://gabriel-martinez-roa.github.io/ta_material/703/</guid>
       <description>
@@ -205,9 +317,138 @@
     </item>
     
     <item>
+      <title>Principles of Microeconomics </title>
+      <link>https://gabriel-martinez-roa.github.io/ta_material/101/</link>
+      <pubDate>Fri, 13 Sep 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://gabriel-martinez-roa.github.io/ta_material/101/</guid>
+      <description>
+
+&lt;h1 id=&#34;course-description&#34;&gt;Course Description&lt;/h1&gt;
+
+&lt;p&gt;This introductory course was taught by professor &lt;a href=&#34;https://www.serrano-padial.com&#34; target=&#34;_blank&#34;&gt;Ricardo Serrano-Padial&lt;/a&gt; during his time in UW-Madison. The TA material found here was put together by several TA&amp;rsquo;s. The formatting is mine. Students learned the core concepts in economics starting from demand and supply and exploring deeper into producer and consumer theory. Students learned both about competitive, well-functioning markets as well as settings where markets fail or are characterized by  market power.&lt;/p&gt;
+
+&lt;h1 id=&#34;material&#34;&gt;Material&lt;/h1&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;center&#34;&gt;&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;Topics&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;Handout&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;Solutions&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Discussion 1&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Preliminaries, Positive Vs. Normative&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://www.dropbox.com/s/tuo5zbdnsv1huq3/Handout_1_s15.pdf?raw=1&#34; target=&#34;_blank&#34;&gt;Handout 1&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://www.dropbox.com/s/q0u3foni0gbw06v/Handout_1_sol_s15.pdf?raw=1&#34; target=&#34;_blank&#34;&gt;Solutions 1&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Discussion 2&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Opportunity costs, efficiency and comparative advantage&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://www.dropbox.com/s/h9qtsx3toeyy9vb/Handout_2_s15.pdf?raw=1&#34; target=&#34;_blank&#34;&gt;Handout 2&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://www.dropbox.com/s/629g8byz7j14wna/Handout_2_sol_s15.pdf?raw=1&#34; target=&#34;_blank&#34;&gt;Solutions 2&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Discussion 3&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Demand and Supply&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://www.dropbox.com/s/15bbt6wwzwogfmi/Handout_3_s15.pdf?raw=1&#34; target=&#34;_blank&#34;&gt;Handout 3&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://www.dropbox.com/s/6q1gqi121mgvbbe/Handout_3_sol_s15.pdf?raw=1&#34; target=&#34;_blank&#34;&gt;Solutions 3&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Discussion 4&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Price controls and social welfare&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://www.dropbox.com/s/0wy4hl2etti704n/Handout_4_s15.pdf?raw=1&#34; target=&#34;_blank&#34;&gt;Handout 4&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://www.dropbox.com/s/xq109h54inv68ix/Handout_4_sol_s15.pdf?raw=1&#34; target=&#34;_blank&#34;&gt;Solutions 4&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Discussion 5&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Quotas, tariffs and taxes&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://www.dropbox.com/s/atp0fzuehiegi4e/Handout_5_s15.pdf?raw=1&#34; target=&#34;_blank&#34;&gt;Handout 5&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://www.dropbox.com/s/2flqinmcm3xill1/Handout_5_sol_s15.pdf?raw=1&#34; target=&#34;_blank&#34;&gt;Solutions 5&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Discussion 6&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Economic profit and marginal analysis&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://www.dropbox.com/s/xzag1z6z2o1khae/Handout_6_s15.pdf?raw=1&#34; target=&#34;_blank&#34;&gt;Handout 6&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://www.dropbox.com/s/csy3a3uq8cbjo8w/Handout_6_sol_s15.pdf?raw=1&#34; target=&#34;_blank&#34;&gt;Solutions 6&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Discussion 7&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Consumer Theory&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://www.dropbox.com/s/wb69ubxkn0x59yh/Handout_7_s15.pdf?raw=1&#34; target=&#34;_blank&#34;&gt;Handout 7&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://www.dropbox.com/s/oylaxnz7wumsujm/Handout_7_sol_s15.pdf?raw=1&#34; target=&#34;_blank&#34;&gt;Solutions 7&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Discussion 8&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Producer theory&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://www.dropbox.com/s/x5slkrhfgep7dri/Handout_8_s15.pdf?raw=1&#34; target=&#34;_blank&#34;&gt;Handout 8&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://www.dropbox.com/s/z3i9f1jbso739uv/Handout_8_sol_s15.pdf?raw=1&#34; target=&#34;_blank&#34;&gt;Solutions 8&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Discussion 9&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Competitive markets I&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://www.dropbox.com/s/rwcb5ff7ekdgrhi/Handout_9_s15.pdf?raw=1&#34; target=&#34;_blank&#34;&gt;Handout 9&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://www.dropbox.com/s/nfagqd7ukoijtkc/Handout_9_sol_s15.pdf?raw=1&#34; target=&#34;_blank&#34;&gt;Solutions 9&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Discussion 10&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Competitive markets II and Monopoly&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://www.dropbox.com/s/r62gr6vak4i81x5/Handout_10_s15.pdf?raw=1&#34; target=&#34;_blank&#34;&gt;Handout 10&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://www.dropbox.com/s/h61azg3ubi56gce/Handout_10_sol_s15.pdf?raw=1&#34; target=&#34;_blank&#34;&gt;Solutions 10&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Discussion 11&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Price discrimination and oligopoly&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://www.dropbox.com/s/zxos9btm0jtxvp7/Handout_11_s15.pdf?raw=1&#34; target=&#34;_blank&#34;&gt;Handout 11&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://www.dropbox.com/s/yoaey8yax3yri7n/Handout_11_sol_s15.pdf?raw=1&#34; target=&#34;_blank&#34;&gt;Solutions 11&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Discussion 12&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;The labor market&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://www.dropbox.com/s/m24oft7jqji2t6n/Handout_12_s15.pdf?raw=1&#34; target=&#34;_blank&#34;&gt;Handout 12&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://www.dropbox.com/s/lccwxacjrq7ebqi/Handout_12_sol_s15.pdf?raw=1&#34; target=&#34;_blank&#34;&gt;Solutions 12&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Discussion 13&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Extra practice problems&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://www.dropbox.com/s/l4q6ssivdu95c24/Handout_13_s15.pdf?raw=1&#34; target=&#34;_blank&#34;&gt;Handout 13&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://www.dropbox.com/s/z1upgg3bfuy8lli/Handout_13_sol_s15.pdf?raw=1&#34; target=&#34;_blank&#34;&gt;Solutions 13&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&#34;disclaimer&#34;&gt;Disclaimer&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Some of the exercises are inspired in published work. The selection of questions was meant to assist students in their learning process. I do not claim property rights of the ideas presented.&lt;/li&gt;
+&lt;li&gt;I appreciate the collaboration of former students in identifying mistakes in the problems or solutions. I constantly keep them updated. If you find an error, please &lt;a href=&#34;mailto:gamartinez@wisc.edu&#34; target=&#34;_blank&#34;&gt;contact me&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Game Theory</title>
       <link>https://gabriel-martinez-roa.github.io/ta_material/521/</link>
-      <pubDate>Tue, 20 Aug 2019 00:00:00 -0500</pubDate>
+      <pubDate>Thu, 12 Sep 2019 00:00:00 -0500</pubDate>
       
       <guid>https://gabriel-martinez-roa.github.io/ta_material/521/</guid>
       <description>

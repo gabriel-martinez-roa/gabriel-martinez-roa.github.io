@@ -7,15 +7,25 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 11 Sep 2019 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 13 Sep 2019 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="https://gabriel-martinez-roa.github.io/ta_material/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Intermediate Macroeconomics</title>
+      <link>https://gabriel-martinez-roa.github.io/ta_material/302/</link>
+      <pubDate>Fri, 13 Sep 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://gabriel-martinez-roa.github.io/ta_material/302/</guid>
+      <description>Course Description This course was taught by professor Ananth Seshadri. The intended audience is undergraduate economics majors, usually in their last years of college. The TA material found here was put together by several TA&amp;rsquo;s. The formatting is mine. Students learned analytical tools to study macroeconomic questions through the eyes of the Neoclassical growth theory.
+ Textbook: Macroeconomics, by Robert J. Barro (5th Edition).  Material     Topics Handout Solutions     Discussion 1 GDP accounting and the Robinson Crusoe economy Handout 1 Solutions 1   Discussion 2 Intertemporal decisions Handout 2 Solutions 2   Discussion 3 Demand for money and market clearing Handout 3 Solutions 3   Discussion 4 Interest rate, inflation and investment Handout 4 Solutions 4   Discussion 5 Real business cycles Handout 5 Solutions 5   Discussion 6 The Solow growth model Handout 6 Solutions 6   Discussion 7 Unemployment with search frictions Handout 7 -   Discussion 8 Government spending and taxes Handout 8 Solutions 8   Discussion 9 Tax policy and public debt Handout 9 Solutions 9   Discussion 10 Open economy Handout 10 Solutions 10    Disclaimer  Some of the exercises are inspired in published work.</description>
+    </item>
+    
+    <item>
       <title>Math for Economists</title>
       <link>https://gabriel-martinez-roa.github.io/ta_material/703/</link>
-      <pubDate>Wed, 11 Sep 2019 00:00:00 -0500</pubDate>
+      <pubDate>Fri, 13 Sep 2019 00:00:00 -0500</pubDate>
       
       <guid>https://gabriel-martinez-roa.github.io/ta_material/703/</guid>
       <description>Course Description This course was taught by professor Raymond Deneckere. The first half of the course was taught during the summer and the second half during the fall semester. The intended audience is first-year Ph.D. students in the economics department.
@@ -23,9 +33,18 @@ In this proof-based course, students develop the tools to understand and formula
     </item>
     
     <item>
+      <title>Principles of Microeconomics </title>
+      <link>https://gabriel-martinez-roa.github.io/ta_material/101/</link>
+      <pubDate>Fri, 13 Sep 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://gabriel-martinez-roa.github.io/ta_material/101/</guid>
+      <description>Course Description This introductory course was taught by professor Ricardo Serrano-Padial during his time in UW-Madison. The TA material found here was put together by several TA&amp;rsquo;s. The formatting is mine. Students learned the core concepts in economics starting from demand and supply and exploring deeper into producer and consumer theory. Students learned both about competitive, well-functioning markets as well as settings where markets fail or are characterized by market power.</description>
+    </item>
+    
+    <item>
       <title>Game Theory</title>
       <link>https://gabriel-martinez-roa.github.io/ta_material/521/</link>
-      <pubDate>Tue, 20 Aug 2019 00:00:00 -0500</pubDate>
+      <pubDate>Thu, 12 Sep 2019 00:00:00 -0500</pubDate>
       
       <guid>https://gabriel-martinez-roa.github.io/ta_material/521/</guid>
       <description>Course Description This summer course was taught by David Hansen. Econ 521 is an advanced undergraduate course where students learned how to study strategic interactions. The course is mainly focused on studying standard non-cooperative games, and finishes discussing topics in cooperative games and evolutionary game theory. See the material below for a more comprehensive list of the material covered.
