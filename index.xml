@@ -6,7 +6,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Mon, 16 Sep 2019 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 22 Sep 2019 17:11:15 -0500</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
@@ -30,9 +30,18 @@
     <item>
       <title>Marek Weretka</title>
       <link>https://gabriel-martinez-roa.github.io/references/marek/</link>
-      <pubDate>Sat, 22 Sep 2018 17:11:15 -0500</pubDate>
+      <pubDate>Sun, 22 Sep 2019 17:11:15 -0500</pubDate>
       
       <guid>https://gabriel-martinez-roa.github.io/references/marek/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>David Hansen (Teaching)</title>
+      <link>https://gabriel-martinez-roa.github.io/references/davidh/</link>
+      <pubDate>Sat, 22 Sep 2018 17:11:15 -0500</pubDate>
+      
+      <guid>https://gabriel-martinez-roa.github.io/references/davidh/</guid>
       <description></description>
     </item>
     
