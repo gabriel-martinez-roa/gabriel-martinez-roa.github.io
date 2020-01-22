@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Mon, 16 Sep 2019 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jan 2020 00:00:00 -0600</lastBuildDate>
     
 	<atom:link href="https://gabriel-martinez-roa.github.io/ta_material/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Finance 320: Investments</title>
+      <link>https://gabriel-martinez-roa.github.io/ta_material/f320/</link>
+      <pubDate>Wed, 22 Jan 2020 00:00:00 -0600</pubDate>
+      
+      <guid>https://gabriel-martinez-roa.github.io/ta_material/f320/</guid>
+      <description>Course Description This course is taught by professor Bulent Paker. The goal of this course is for students to learn the basic theoretical foundations and the practical skills that an investment professional needs.
+In this website page you can find an unofficial outline of the lectures. I am putting together this pdf to aid you in studying for this class by making sure you have a clear idea of what topics were covered in each lecture as well as what chapters in the book are connected with the topics discussed.</description>
+    </item>
+    
+    <item>
+      <title>Finance 445: Multinational Business Finance</title>
+      <link>https://gabriel-martinez-roa.github.io/ta_material/f445/</link>
+      <pubDate>Wed, 22 Jan 2020 00:00:00 -0600</pubDate>
+      
+      <guid>https://gabriel-martinez-roa.github.io/ta_material/f445/</guid>
+      <description>Course Description This course is taught by professor Bulent Paker. The goal of this course is for students to learn to apply financial theory to the operations of multinational firms. Understand the international financial environment as well as the determinants of international financial decisions.
+In this website page you can find an unofficial outline of the lectures. I am putting together this pdf to aid you in studying for this class by making sure you have a clear idea of what topics were covered in each lecture as well as what chapters in the book are connected with the topics discussed.</description>
+    </item>
     
     <item>
       <title>Finance 300: Introduction to Finance</title>
